@@ -1,20 +1,14 @@
 # Video_test
 
 
+![Test_video_3](https://github.com/user-attachments/assets/8c25817a-3cdd-4c5f-ba6d-13286b3ca9be)
 
 
-https://github.com/user-attachments/assets/7a04e001-a542-4378-b2be-3364af3157c1
-
-
-
-https://github.com/user-attachments/assets/5483ccfa-e79f-4e43-89d9-848402fcc8c3
+![Test_video_3_slow_motion_2x](https://github.com/user-attachments/assets/bc5ff3d4-6d05-483e-8798-d6db84d82a91)
 
 
 
-https://github.com/user-attachments/assets/8681736e-7e10-4098-8db3-2a45ea3201a4
-
-
-
+![Test_video_3_frame_rate_increase_2x](https://github.com/user-attachments/assets/231c1053-f9e7-4da0-be2c-5f34895066ae)
 
 
 
